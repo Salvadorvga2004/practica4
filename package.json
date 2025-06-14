@@ -1,6 +1,5 @@
 {
-  "name": "practica4-svc", 
-  "version": "0.1.0",
+  "name": "practica4",
   "homepage": "https://Salvadorvga2004.github.io/practica4",
   "private": true,
   "dependencies": {
